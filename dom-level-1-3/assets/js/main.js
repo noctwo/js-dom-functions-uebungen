@@ -1,0 +1,1 @@
+document.getElementById('gallery').innerHTML ='<figure> <img src="https://source.unsplash.com/random/'+300+'x'+300+'"></figure><figure> <img src="https://source.unsplash.com/random/'+300+'x'+300+'"></figure><figure> <img src="https://source.unsplash.com/random/'+300+'x'+300+'"></figure>';
