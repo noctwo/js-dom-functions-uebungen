@@ -26,4 +26,11 @@ function changeColorFour(){
     headlineColor.style.color = "rgba(0,255,246,1)";
 }
 
+function changeColorReset(){
+    let bgColor = document.querySelector("body");
+    let headlineColor = document.querySelector("h1")
+    bgColor.style.backgroundColor = "";
+    headlineColor.style.color = "";
+}
+
 

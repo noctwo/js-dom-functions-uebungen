@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body{
+    font-family: sans-serif;
+}
+
 main{
     text-align: center;
     margin-top: 3em;
@@ -52,4 +56,12 @@ main{
     -moz-box-shadow: 4px 4px 5px 0px rgba(212,212,212,1);
     box-shadow: 4px 4px 5px 0px rgba(212,212,212,1);
     
+}
+
+.btn-reset{
+    margin-top: 3em;
+    padding: 1em 3em;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
 }
